@@ -21,7 +21,7 @@ public class Main {
     //return back an sorted array
     public static int[] bubbleSort(int[] array) {
 
-        for (int i = 0; i < array.length; i++) {
+        for (int i = 0; i < array.length-1; i++) {
 
             //check every elements, starts at index 0
             //array.length-1, so that it doesn't overflow the array and cause bug
