@@ -1,3 +1,8 @@
+/*
+    Bubble Sort
+    Time Complexity: O(n^2)
+ */
+
 import java.util.Arrays;
 
 public class Main {
