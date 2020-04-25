@@ -36,7 +36,7 @@ public class Main {
             //check and compare if value at (key) is less than value at (key - 1)
             while (key > 0 && (temp < array[key - 1])) {
 
-                //if true, swap
+                //if t rue, swap
                 array[key] = array[key - 1];
 
                 //move the checker key to the left by 1
