@@ -1,3 +1,7 @@
+/*
+    QuickSort
+    Time Complexity: O(n log n)
+ */
 import java.util.Arrays;
 
 public class Main {
